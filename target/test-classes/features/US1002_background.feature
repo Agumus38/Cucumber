@@ -1,4 +1,5 @@
 Feature: US1002 Background ile amazon search test
+
 Background: amazon sayfasına gıdıs
   Given kullanici amazon sayfasina gider
 #diyez ile yorum yazılabılır
